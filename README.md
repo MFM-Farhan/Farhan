@@ -1,24 +1,41 @@
-# Farhan's Profile
+Hi there, I'm Farhan! 👋
 
-## 🛡️ Cybersecurity Enthusiast | CTF Player | Programmer
+🚀 About Me
 
-### 🔹 About Me
-Hello! I'm Farhan, a cybersecurity student passionate about ethical hacking, Linux, and programming. I enjoy participating in CTF events and building security tools.
+🎓 Pursuing BSc (Hons) in Information Technology (Cybersecurity) at SLIIT University
 
-### 🔹 Skills
-- **Programming:** C, Python, JavaScript, Shell Scripting
-- **Security:** Penetration Testing, Linux Security, Networking
-- **Tools:** Kali Linux, Nmap, Metasploit, Wireshark
+🔐 Passionate about Offensive Security, Penetration Testing, and Ethical Hacking
 
-### 🔹 Projects
-- **Health Insurance Management System**: A web application built with PHP, JavaScript, and SQL for managing health insurance data.
-- **Automated System Reports**: A shell script that automates system health reports and backup processes.
+🏆 Participated in CTF events, including the one hosted by CIRCA Campus with HashX
 
-### 🔹 Education
-Currently pursuing a BSc (Hons) in Information Technology, specializing in Cybersecurity at SLIIT University.
+🖥️ Experienced in Linux, Networking, and Security Tools
 
-### 🔹 Contact
-📧 Email: mohamed.farhan.mohamed.fahim@gmail.com  
-🐙 GitHub: [github.com/your-github](https://github.com/your-github)
+📜 Completed Cisco and Hack The Box courses
 
-Feel free to check out my projects and connect with me! Always happy to collaborate or chat about cybersecurity!
+⚙️ Built a Health Insurance Management System using PHP, JavaScript, HTML, CSS, and SQL
+
+🛠️ Own a wood sawing shop, handling operations and management
+
+🛠️ Tech Stack
+
+💻 Languages: Python, C, JavaScript, Shell Scripting
+
+🏴‍☠️ Cybersecurity: Nmap, Wireshark, Metasploit, Burp Suite, Kali Linux
+
+🌐 Web Development: HTML, CSS, JavaScript, PHP, SQL
+
+🐧 Operating Systems: Linux (Ubuntu, Kali), Windows
+
+☁️ Networking: DHCP, Firewalls, SSH, iptables
+
+📈 GitHub Stats
+
+
+
+📫 Connect with Me
+
+LinkedIn: Your LinkedIn
+
+GitHub: Your GitHub
+
+Email: your.email@example.com
